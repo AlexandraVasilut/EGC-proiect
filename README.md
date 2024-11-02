@@ -1,0 +1,2 @@
+În acest proiect este prezentată o implementare simplă care face caracterul jocului, prin aplicația Unity, să facă diferite provocări în diferite săli de clasă din corpul C pentru a obține în final dimploma de Inginer.
+Jocul este dezvoltat folosind motorul puternic și flexibil al Unity-ului, care oferă suport pentru dezvoltarea jocurilor în 2D și 3D pe o varietate de platforme. Jocul nostru fiind în varianta 2D.
